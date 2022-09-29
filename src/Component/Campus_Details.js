@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import './Campus_Details.css';
 import axios from 'axios';
@@ -69,13 +68,6 @@ export function Campus_Details() {
         </tbody>
       </table>
     </div>
-=======
-import React from 'react';
-
-export function Campus_Details() {
-  return (
-    <div>Campus_Details</div>
->>>>>>> 149bb323daf4554f9fcf05704780b69960d5eb6f
   )
 }
 
